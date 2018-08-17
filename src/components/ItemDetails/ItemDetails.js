@@ -31,6 +31,9 @@ export default class ItemDetails extends Component {
                     alt="thumbnail"
                     src="https://i5.walmartimages.com/asr/99382568-e98b-4a27-b4dd-6705f43bde1f_1.01ed919ba7555419709fdbdf1b8fb930.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff"
                   />
+                  <Media.Body>
+                    <p> Michael Kors Women's Camille MK5720 Gold Stainless-Steel Japanese Quartz Fashion Watch</p>
+                  </Media.Body>
 
               </Media>
             </Well>
