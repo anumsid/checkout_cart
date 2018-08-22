@@ -52,7 +52,7 @@ class PromoCodeDiscount extends Component {
                     block
                     bsStyle="success"
                     className="btn-round"
-                    disabled={this.props.isDiabled}
+                    disabled={this.props.isDisabled}
                     onClick={this.props.giveDiscount}
                   >
                   Apply
